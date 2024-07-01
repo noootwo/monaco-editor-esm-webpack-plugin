@@ -70,7 +70,7 @@ The webpack's plugin for monaco editor to compile the worker and handle with loc
 
 There only two options for this plugin. But you can set the [monaco-editor-webpack-plugin's options](https://github.com/microsoft/monaco-editor-webpack-plugin#options) in this options. such as: `new MonacoWebpackPlugin({ languages: ['typescript'] })`
 
-- isMonacoEditorWebapckPlugin - whether [monaco-editor-webpack-plugin](https://github.com/microsoft/monaco-editor-webpack-plugin) is used. Default: `true`
+- isMonacoEditorWebpackPlugin - whether [monaco-editor-webpack-plugin](https://github.com/microsoft/monaco-editor-webpack-plugin) is used. Default: `true`
 
 - isReplaceNls - whether replace the nls file. Default: `true`
 
